@@ -1,4 +1,4 @@
-# 🚗 AutoStyle — E-Commerce Especializado
+# AutoStyle — E-Commerce Especializado
 
 Plataforma e-commerce full-stack orientada a la personalización y protección vehicular, diseñada bajo metodología ágil y arquitectura desacoplada orientada a servicios.
 
