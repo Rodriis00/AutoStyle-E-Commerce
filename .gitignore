@@ -1,0 +1,28 @@
+# Dependencias
+node_modules/
+*/node_modules/
+
+# Variables de entorno y credenciales
+.env
+*/.env
+*.env.local
+
+# Compilación y producción
+dist/
+build/
+*/dist/
+
+# Archivos subidos y almacenamiento temporal
+uploads/
+*/uploads/
+downloads/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Sistema operativo y editores
+.DS_Store
+.vscode/
+.idea/
